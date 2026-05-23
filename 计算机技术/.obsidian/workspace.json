@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "7ee39c4d3dfeaff7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c5ff87eab722728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "901a4ff140182ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git常用命令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git常用命令"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a190af7dea72ed4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed3b15d5f8d48cff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3ffecc38d0ddc75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "586393ec4d98fd29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "072e2ce6db179dbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "78275f23d194e419",
+    "type": "split",
+    "children": [
+      {
+        "id": "d58b6c8d24721ee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e9b61c94e187c30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "算法学习/算法思想/分治.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "分治 的反向链接列表"
+            }
+          },
+          {
+            "id": "291d5fbe31fd034e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "蓝桥杯解题流程/蓝桥杯解题框架/某种算法的代码框架/回溯法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "回溯法 的出链列表"
+            }
+          },
+          {
+            "id": "b06d3666de65e73d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "10bea05a547d657f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "蓝桥杯解题流程/蓝桥杯解题框架/某种算法的代码框架/回溯法.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "回溯法 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "901a4ff140182ca3",
+  "lastOpenFiles": [
+    "打包工具.md",
+    "Temp/判断图中是否有环结构.md",
+    "Git常用命令.md",
+    "未命名 3.base",
+    "2026-04-19.md",
+    "未命名.base",
+    "未命名 2.base",
+    "未命名 1.base",
+    "软件开发工具",
+    "算法/数学/取模运算的性质.md",
+    "Temp",
+    "算法/数学/进制.md",
+    "算法/某种算法/快速幂算法.md",
+    "编程语言语法/Python语法.md",
+    "编程语言语法/JavaScript语法.md",
+    "编程语言语法/编程语言语法.md",
+    "编程语言语法/Java语法.md",
+    "编程语言语法",
+    "算法/解题流程/数据的输入和输出/二维矩阵的输入.md",
+    "算法/解题流程/常识/一些固定函数.md",
+    "算法/解题流程/常识/关于时间.md",
+    "计算机技术/计算机网络/计算机之间的通讯.md",
+    "算法/解题流程/算法框架/某种算法的代码框架/回溯法框架.md",
+    "算法/解题流程/算法框架/整体框架.md",
+    "算法/算法思想/回溯.md",
+    "算法/算法思想/递归.md",
+    "算法/算法思想/贪心.md",
+    "算法/算法思想/搜索.md",
+    "算法/算法思想/数学定理+.md",
+    "算法/算法思想/枚举.md",
+    "算法/算法思想/分治.md",
+    "算法/算法思想/动态规划.md",
+    "算法/算法思想/暴力求解+.md",
+    "算法/解题流程/常识",
+    "未命名.canvas",
+    "算法/算法思想",
+    "计算机技术/计算机组成原理",
+    "未命名 1.canvas"
+  ]
+}
